@@ -24,4 +24,5 @@ end
 initial begin 
 $monitor("Time=%0t, a=%h, b=%h, c=%h", $time, a, b, c);
 end
+
 endmodule
